@@ -35,7 +35,6 @@
     <maintainer>Moko Consulting</maintainer>
     <maintainerurl>https://www.mokoconsulting.tech</maintainerurl>
 
-    <targetplatform name='joomla' version='4.*'/>
     <targetplatform name='joomla' version='5.*'/>
   </update>
 </updates>
