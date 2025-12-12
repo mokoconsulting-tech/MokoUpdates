@@ -16,12 +16,14 @@
 <updates>
 	<update>
 		<name>MokoWaasBrand</name>
-		<description>MokoWaaS rebrands Joomla into a unified WaaS delivery platform, applying centralized visual identity, terminology, and administrative controls. The plugin standardizes branding, streamlines user experience, and enforces consistent governance across all tenant sites for a cohesive Moko Consulting ecosystem.</description>
+		<description>
+			MokoWaaSBrand standardizes Joomla into a unified WaaS platform with centralized branding, terminology, and administrative controls. The plugin streamlines the user experience and enforces consistent governance across all tenant sites for a cohesive Moko Consulting ecosystem.
+		</description>
 		<element>mokowaasbrand</element>
 		<type>plugin</type>
 		<client>system</client>
 
-		<version>01.01.04</version>
+		<version>01.02.01</version>
 		<creationDate>2025-12-09</creationDate>
 		<author>Jonathan Miller || Moko Consulting</author>
 		<authorEmail>hello@mokoconsulting.tech</authorEmail>
@@ -32,7 +34,7 @@
 		<infourl title='Moko mokoWaaSBRAND'>https://github.com/mokoconsulting-tech/mokowaasbrand</infourl>
 
 		<downloads>
-			<downloadurl type='full' format='zip'>https://github.com/mokoconsulting-tech/mokowaasbrand/archive/refs/tags/01.01.05.zip</downloadurl>
+			<downloadurl type='full' format='zip'>https://github.com/mokoconsulting-tech/MokoWaaSBrand/releases/download/01.02.01/MokoWaaSBrand-01.02.01.zip</downloadurl>
 		</downloads>
 
 		<tags>
